@@ -152,3 +152,11 @@
 [14Nov2024 21:31:54.480] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [14Nov2024 21:32:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> donde andai metio qlo xD
 [14Nov2024 21:32:15.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> nose se la agarraron las indias
+[14Nov2024 21:39:03.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mimir
+[14Nov2024 21:39:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> qlo eficiente
+[14Nov2024 21:39:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> taba ahi mismo
+[14Nov2024 21:43:17.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1175, y=79, z=382} BlockPos{x=-1175, y=78, z=383}
+[14Nov2024 21:44:44.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1168, y=79, z=376} BlockPos{x=-1168, y=78, z=377}
+[14Nov2024 21:45:20.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1165, y=79, z=374} BlockPos{x=-1165, y=78, z=375}
+[14Nov2024 21:45:34.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1164, y=79, z=385} BlockPos{x=-1164, y=78, z=385}
+[14Nov2024 21:46:23.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1477, y=83, z=151} BlockPos{x=-1477, y=83, z=153}

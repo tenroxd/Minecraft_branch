@@ -5812,6 +5812,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-11-14 22:29:46 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/sporeling": {
     "criteria": {
       "kill": "2024-11-14 21:30:49 +0000"
@@ -5821,6 +5827,12 @@
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2024-11-14 21:24:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-11-14 22:27:15 +0000"
     },
     "done": true
   },

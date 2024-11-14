@@ -1953,3 +1953,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Nov2024 22:26:53.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Nov2024 22:27:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Double Trouble]
 [14Nov2024 22:29:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Life turned out to be a comedy]
+[14Nov2024 22:31:54.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Nov2024 22:31:54.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Nov2024 22:36:53.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Nov2024 22:36:53.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

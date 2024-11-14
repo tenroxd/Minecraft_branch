@@ -5812,5 +5812,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2024-11-14 21:24:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

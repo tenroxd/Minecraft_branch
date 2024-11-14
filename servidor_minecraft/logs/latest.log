@@ -1,0 +1,38 @@
+[12Nov2024 00:02:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no te ascucho
+[12Nov2024 00:14:11.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[12Nov2024 00:15:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was doomed to fall by Cave Spider
+[12Nov2024 00:15:57.170] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[12Nov2024 00:16:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Nightmare Stalker
+[12Nov2024 00:16:24.259] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[12Nov2024 00:23:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Pic-A-Nic Basket?]
+[12Nov2024 00:23:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has reached the goal [Exorcism]
+[12Nov2024 00:28:21.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was doomed to fall by Arachne
+[12Nov2024 00:28:21.375] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[12Nov2024 00:31:55.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[12Nov2024 00:35:16.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: You logged in from another location
+[12Nov2024 00:35:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[12Nov2024 00:35:16.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.108.35.8:37367] logged in with entity id 245249 at (-1288.9296121428001, 69.0, 137.62216697739092)
+[12Nov2024 00:35:16.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[12Nov2024 00:38:06.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Nov2024 00:40:57.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[12Nov2024 00:40:57.954] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[12Nov2024 00:43:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away whilst fighting Necro Weridboi Orc
+[12Nov2024 00:43:35.098] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[12Nov2024 00:48:49.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[12Nov2024 00:48:49.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[12Nov2024 00:54:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has completed the challenge [Will I turned into one of them?]
+[12Nov2024 01:06:05.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[12Nov2024 01:06:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[12Nov2024 01:06:23.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Nov2024 01:06:23.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Nov2024 01:06:23.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Nov2024 01:06:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Nov2024 01:06:23.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Nov2024 01:06:28.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Nov2024 01:06:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Nov2024 01:06:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Nov2024 01:06:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Nov2024 01:06:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Nov2024 01:06:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Nov2024 01:06:29.366] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Nov2024 01:06:29.367] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml

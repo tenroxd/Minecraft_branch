@@ -191,3 +191,8 @@
 [14Nov2024 22:16:31.266] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [14Nov2024 22:27:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Double Trouble]
 [14Nov2024 22:29:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Life turned out to be a comedy]
+[14Nov2024 22:42:57.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Nov2024 22:47:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [We Need to Go Deeper]
+[14Nov2024 22:47:17.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8277ms or 165 ticks behind
+[14Nov2024 22:51:00.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[14Nov2024 22:51:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game

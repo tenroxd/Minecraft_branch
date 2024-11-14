@@ -1957,3 +1957,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Nov2024 22:31:54.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Nov2024 22:36:53.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Nov2024 22:36:53.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Nov2024 22:41:53.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Nov2024 22:41:53.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Nov2024 22:42:57.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Nov2024 22:46:54.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Nov2024 22:46:54.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Nov2024 22:47:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [We Need to Go Deeper]
+[14Nov2024 22:47:17.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8277ms or 165 ticks behind
+[14Nov2024 22:47:17.234] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=140}
+[14Nov2024 22:47:17.235] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=141}
+[14Nov2024 22:51:00.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[14Nov2024 22:51:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game

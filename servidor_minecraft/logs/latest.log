@@ -187,3 +187,7 @@
 [14Nov2024 22:06:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> yata
 [14Nov2024 22:06:15.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [14Nov2024 22:06:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[14Nov2024 22:16:31.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was killed by Arachne using magic
+[14Nov2024 22:16:31.266] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[14Nov2024 22:27:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Double Trouble]
+[14Nov2024 22:29:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Life turned out to be a comedy]

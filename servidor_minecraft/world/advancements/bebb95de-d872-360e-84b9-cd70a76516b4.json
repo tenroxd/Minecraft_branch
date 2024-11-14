@@ -5049,5 +5049,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/cyan_flower": {
+    "criteria": {
+      "kill": "2024-11-14 21:28:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

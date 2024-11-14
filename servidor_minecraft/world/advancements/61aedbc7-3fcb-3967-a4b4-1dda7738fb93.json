@@ -5812,6 +5812,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/sporeling": {
+    "criteria": {
+      "kill": "2024-11-14 21:30:49 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2024-11-14 21:24:01 +0000"

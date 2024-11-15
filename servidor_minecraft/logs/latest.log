@@ -109,3 +109,7 @@
 [15Nov2024 02:48:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was shot by Skeleton
 [15Nov2024 02:48:42.504] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [15Nov2024 02:49:31.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[15Nov2024 02:52:45.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Nov2024 02:52:54.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voice po masisi
+[15Nov2024 02:58:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> asumaire
+[15Nov2024 02:58:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> k

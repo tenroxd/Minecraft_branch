@@ -5055,5 +5055,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2024-11-15 02:39:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-11-15 02:46:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2024-11-15 02:45:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

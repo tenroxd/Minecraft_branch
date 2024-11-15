@@ -83,3 +83,11 @@
 [15Nov2024 02:10:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [15Nov2024 02:10:26.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
 [15Nov2024 02:10:44.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[15Nov2024 02:30:09.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Nov2024 02:30:54.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.17.162.141:32869] logged in with entity id 11893 at (-204.69999998807907, 85.0, -50.30000001192093)
+[15Nov2024 02:30:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[15Nov2024 02:30:58.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[15Nov2024 02:34:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> le
+[15Nov2024 02:35:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> shuaño
+[15Nov2024 02:38:02.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voice?
+[15Nov2024 02:38:47.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind

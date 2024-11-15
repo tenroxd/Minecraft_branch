@@ -1916,3 +1916,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Nov2024 03:44:35.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Nov2024 03:49:09.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Nov2024 03:49:09.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Nov2024 03:53:45.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[15Nov2024 03:53:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[15Nov2024 03:53:45.968] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=140}
+[15Nov2024 03:53:45.969] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=141}
+[15Nov2024 03:54:09.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Nov2024 03:54:09.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Nov2024 03:59:09.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Nov2024 03:59:09.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

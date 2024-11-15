@@ -157,3 +157,5 @@
 [15Nov2024 03:42:52.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Nov2024 03:44:24.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Nov2024 03:44:35.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Nov2024 03:53:45.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[15Nov2024 03:53:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game

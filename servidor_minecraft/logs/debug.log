@@ -1885,3 +1885,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Nov2024 03:29:07.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Nov2024 03:29:15.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Nov2024 03:31:15.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[15Nov2024 03:31:53.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni verruga?
+[15Nov2024 03:32:01.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> nel
+[15Nov2024 03:33:21.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fui a pasear al nether
+[15Nov2024 03:33:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> perro qlo ibamos a esperar al jaime
+[15Nov2024 03:33:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> llega el domingo el ctm
+[15Nov2024 03:33:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fui a sapear noma
+[15Nov2024 03:33:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y
+[15Nov2024 03:34:09.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Nov2024 03:34:09.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Nov2024 03:35:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y esta brigido?
+[15Nov2024 03:35:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> maomenos hay unas cabras wither q webean
+[15Nov2024 03:35:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y unos succubos
+[15Nov2024 03:35:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> csm
+[15Nov2024 03:35:48.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y cualquier esqueleto
+[15Nov2024 03:39:09.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Nov2024 03:39:09.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Nov2024 03:41:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[15Nov2024 03:41:26.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1293, y:61, z:134, dim:minecraft:overworld]
+[15Nov2024 03:41:26.484] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[15Nov2024 03:41:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> noh vimoh
+[15Nov2024 03:41:41.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me dio sueño
+[15Nov2024 03:41:43.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[15Nov2024 03:41:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game

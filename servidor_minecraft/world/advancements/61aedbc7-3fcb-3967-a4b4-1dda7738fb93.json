@@ -5887,6 +5887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-11-15 02:59:40 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/wither_cow": {
     "criteria": {
       "kill": "2024-11-15 02:35:36 +0000"
@@ -5938,6 +5944,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2024-11-15 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-11-15 03:27:15 +0000"
     },
     "done": true
   },

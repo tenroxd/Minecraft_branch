@@ -1898,3 +1898,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Nov2024 03:24:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep}
 [17Nov2024 03:24:06.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no tenfo
 [17Nov2024 03:24:22.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17Nov2024 03:24:32.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Nov2024 03:24:32.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Nov2024 03:27:11.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[17Nov2024 03:27:37.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Nov2024 03:29:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> unu
+[17Nov2024 03:29:32.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Nov2024 03:29:32.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Nov2024 03:30:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ayer me salio un payaso
+[17Nov2024 03:30:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te dije qlo sakjksajkjaskjas
+[17Nov2024 03:30:43.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Nov2024 03:30:46.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y me dio como una pocion
+[17Nov2024 03:30:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> si, aparte cuando te ataca te da un efecto qlo raro
+[17Nov2024 03:31:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
+[17Nov2024 03:31:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> siii
+[17Nov2024 03:32:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> despues ayer mate a la de hongos y me dejo entero mariao
+[17Nov2024 03:32:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y la wna no da loot weno
+[17Nov2024 03:32:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimir?
+[17Nov2024 03:32:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> na
+[17Nov2024 03:34:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza fell from a high place
+[17Nov2024 03:34:21.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElLogonza was created at position [x:-1498, y:65, z:158, dim:minecraft:overworld]
+[17Nov2024 03:34:21.465] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[17Nov2024 03:34:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> skkasjskjakjsakj
+[17Nov2024 03:34:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fallo el water drop
+[17Nov2024 03:34:32.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Nov2024 03:34:32.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

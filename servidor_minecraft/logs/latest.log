@@ -244,3 +244,43 @@
 [17Nov2024 03:55:15.540] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [17Nov2024 03:55:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> se me metio al lobby el pulpo re qlo
 [17Nov2024 03:56:20.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[17Nov2024 03:56:41.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6024ms or 120 ticks behind
+[17Nov2024 03:56:59.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
+[17Nov2024 03:57:30.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no hay coral por la chucha
+[17Nov2024 03:57:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teno un bug
+[17Nov2024 03:57:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> cual?
+[17Nov2024 03:58:12.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el agua atraveso una bentana
+[17Nov2024 03:58:18.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kjskjsajasksjakjas
+[17Nov2024 03:59:01.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Magic Writing]
+[17Nov2024 03:59:36.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Nov2024 04:00:21.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> e
+[17Nov2024 04:00:51.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Nov2024 04:02:00.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> como chucha no hay coral
+[17Nov2024 04:02:07.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> corta pa otro lao
+[17Nov2024 04:02:37.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> nisiquiera se donde estoy wn kjsakjaskjskjkjas
+[17Nov2024 04:03:48.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Nov2024 04:04:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me piro sino me matan
+[17Nov2024 04:04:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was slain by Cecaelia
+[17Nov2024 04:04:58.836] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[17Nov2024 04:04:59.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[17Nov2024 04:05:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> conche tumare
+[17Nov2024 04:05:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> onta tu onor basura
+[17Nov2024 04:05:16.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[17Nov2024 04:05:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[17Nov2024 04:05:28.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Nov2024 04:05:44.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.158.33.27:36185] logged in with entity id 33069 at (-1287.922686394, 61.0, 135.17627956716)
+[17Nov2024 04:05:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[17Nov2024 04:05:52.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> qlo despues se cae la wea
+[17Nov2024 04:05:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy a intentar una wea
+[17Nov2024 04:06:24.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! 0.60795114394341,-11.011337373112042,-0.9817043808421317
+[17Nov2024 04:06:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire fell from a high place
+[17Nov2024 04:06:24.973] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[17Nov2024 04:06:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> funcionooooooo
+[17Nov2024 04:06:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el de subida
+[17Nov2024 04:06:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire fell from a high place
+[17Nov2024 04:06:57.559] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[17Nov2024 04:07:00.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> askdjahsdkjsd
+[17Nov2024 04:07:07.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> calmao
+[17Nov2024 04:07:27.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> teni una perla de ender?
+[17Nov2024 04:07:28.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[17Nov2024 04:07:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> nel

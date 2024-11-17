@@ -18,13 +18,16 @@
       "minecraft:lukewarm_ocean": "2024-10-27 16:12:28 +0000",
       "minecraft:stony_shore": "2024-10-27 23:58:17 +0000",
       "minecraft:dripstone_caves": "2024-10-23 04:10:52 +0000",
+      "minecraft:cold_ocean": "2024-11-17 03:59:57 +0000",
       "minecraft:forest": "2024-09-23 17:54:16 +0000",
       "minecraft:lush_caves": "2024-11-06 04:57:22 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-17 04:00:16 +0000",
       "minecraft:ocean": "2024-10-23 03:31:13 +0000",
       "minecraft:jungle": "2024-10-27 23:24:26 +0000",
       "minecraft:flower_forest": "2024-10-22 03:00:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-10-26 03:12:47 +0000",
       "minecraft:meadow": "2024-10-26 03:02:06 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-11-17 04:03:27 +0000",
       "minecraft:savanna": "2024-10-23 03:37:25 +0000",
       "minecraft:plains": "2024-10-22 03:00:01 +0000"
     },
@@ -5124,6 +5127,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-11-17 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-11-17 03:59:01 +0000"
     },
     "done": true
   },
